@@ -1,4 +1,4 @@
 Crisis Commanded
 ===============================
 
-![CrisisCommanded](img/crco-banner.png)  
+![CrisisCommanded](img/crco-banner.jpg)  
